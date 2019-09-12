@@ -14,7 +14,11 @@ Include your responses to the bold questions below. Include snippets of code tha
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+I had forgotten to connect the 2 halfves of the long breadboard. In order to fix this, I had to connect the power and grounds of both halves.
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+ 
+ lcd.Print("Hello, World!") had to be switched to lcd.Print("Matt")
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
