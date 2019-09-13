@@ -31,7 +31,7 @@ I had forgotten to connect the 2 halfves of the long breadboard. In order to fix
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
-     Half all of the tone durations
+     Double all of the values in the note durations array
  
 **b. What song is playing?**
 
