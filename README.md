@@ -34,6 +34,7 @@ I had forgotten to connect the 2 halfves of the long breadboard. In order to fix
      Double all of the values in the note durations array
  
 **b. What song is playing?**
+     Star Wars
 
 
 ## Part E. Make your own timer
