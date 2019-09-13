@@ -10,7 +10,11 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **a. What voltage level do you need to power your display?**
 
+      Need 8.3V total. 5V to power the display and 3.3v to power the backlight
+
 **b. What voltage level do you need to power the display backlight?**
+
+      The backlight requires 3.3v
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
@@ -31,9 +35,11 @@ I had forgotten to connect the 2 halfves of the long breadboard. In order to fix
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
      Double all of the values in the note durations array
  
 **b. What song is playing?**
+
      Star Wars
 
 
