@@ -39,7 +39,7 @@ Wiring Images:
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
-
+![Video](https://youtu.be/GdjgzGdDADc)
 
 ## Part D. Make your Arduino sing!
 
