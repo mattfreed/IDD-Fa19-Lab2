@@ -29,6 +29,12 @@ I had forgotten to connect the 2 halves of the long breadboard. In order to fix 
 
 ![code](/AnalogInputLCD_Freed.ino)
 
+Wiring Images:
+
+![Board](/Images/IMG_2809.jpg)
+![Board](/Images/IMG_2826.jpg)
+![Board](/Images/IMG_2830.jpg)
+
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
