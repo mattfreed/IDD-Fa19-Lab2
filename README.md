@@ -7,8 +7,6 @@ Include your responses to the bold questions below. Include snippets of code tha
 ![Soldered Board](https://github.com/mattfreed/IDD-Fa19-Lab2/tree/master/Images/IMG_2808.jpg)
 
 
-**Take a picture of your soldered panel and add it here!**
-
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
