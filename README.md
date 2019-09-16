@@ -2,6 +2,10 @@
  
 Include your responses to the bold questions below. Include snippets of code that explain what you did. Deliverables are due next Tuesday. Post your lab reports as README.md pages on your GitHub, and post a link to that on your main class hub page.
 
+## PreLab:
+
+https://github.com/mattfreed/PreLab2
+
 ## Part A. Solder your LCD panel
 
    ![Soldered Board](/Images/IMG_2808.jpg)
