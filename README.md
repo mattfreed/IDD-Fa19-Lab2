@@ -26,6 +26,7 @@ I had forgotten to connect the 2 halves of the long breadboard. In order to fix 
  lcd.Print("Hello, World!") had to be switched to lcd.Print("Matt")
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
+
 ![code](https://github.com/mattfreed/IDD-Fa19-Lab2/blob/master/AnalogInputLCD_Freed.ino)
 
 ## Part C. Using a time-based digital sensor
