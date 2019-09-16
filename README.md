@@ -39,6 +39,7 @@ Wiring Images:
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
+
 https://youtu.be/GdjgzGdDADc
 
 ## Part D. Make your Arduino sing!
@@ -58,5 +59,7 @@ Setup:
 ![Board](/Images/IMG_2830.png)
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+
+https://youtu.be/tNpg1S1R9Vk
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
