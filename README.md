@@ -31,9 +31,11 @@ I had forgotten to connect the 2 halves of the long breadboard. In order to fix 
 
 Wiring Images:
 
-![Board](/Images/IMG_2809.jpg)
-![Board](/Images/IMG_2826.jpg)
-![Board](/Images/IMG_2830.jpg)
+![Board](/Images/IMG_2809.png)
+
+![Board](/Images/IMG_2826.png)
+
+![Board](/Images/IMG_2830.png)
 
 ## Part C. Using a time-based digital sensor
 
