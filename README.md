@@ -35,7 +35,6 @@ Wiring Images:
 
 ![Board](/Images/IMG_2826.png)
 
-![Board](/Images/IMG_2830.png)
 
 ## Part C. Using a time-based digital sensor
 
@@ -54,6 +53,9 @@ Wiring Images:
 
 
 ## Part E. Make your own timer
+
+Setup:
+![Board](/Images/IMG_2830.png)
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
